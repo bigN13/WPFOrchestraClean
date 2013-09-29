@@ -11,9 +11,8 @@ namespace WpfOrchestra
 
     using Catel.IoC;
     using Catel.MVVM;
-    using Catel.MVVM.ViewModels;
     using Catel.Windows;
-    using Catel.Windows.Threading;
+
     using Orchestra.Services;
     using Orchestra.ViewModels;
 
@@ -21,7 +20,7 @@ namespace WpfOrchestra
     /// <summary>
     /// Interaction logic for App.xaml.
     /// </summary>
-    public partial class App : Application
+    public partial class App
     {
         #region Methods
         /// <summary>
