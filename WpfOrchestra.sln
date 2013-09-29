@@ -3,6 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfOrchestra", "WpfOrchestra\WpfOrchestra.csproj", "{B07F801E-86C1-4CF1-ADAA-83B291E1D04A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{FA664646-7395-422F-B4BD-F29B2BFE1B05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{9DC6CA3E-E7D6-4606-AD90-711766B1E55C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{31F4C7B7-F3C5-4F9E-9BDD-6452676C0279}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{BEC06C9D-E1FD-47EE-9D0A-1CF0C717A5AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shell", "Shell", "{9A49B301-936E-4F9D-B359-4EBFA544A111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchestra.Modules.MyModule1", "Orchestra.Modules.MyModule1\Orchestra.Modules.MyModule1.csproj", "{A3D60B62-F4ED-4F37-B012-D47B6A7C012C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,8 +25,18 @@ Global
 		{B07F801E-86C1-4CF1-ADAA-83B291E1D04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B07F801E-86C1-4CF1-ADAA-83B291E1D04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B07F801E-86C1-4CF1-ADAA-83B291E1D04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D60B62-F4ED-4F37-B012-D47B6A7C012C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D60B62-F4ED-4F37-B012-D47B6A7C012C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D60B62-F4ED-4F37-B012-D47B6A7C012C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D60B62-F4ED-4F37-B012-D47B6A7C012C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A49B301-936E-4F9D-B359-4EBFA544A111} = {31F4C7B7-F3C5-4F9E-9BDD-6452676C0279}
+		{BEC06C9D-E1FD-47EE-9D0A-1CF0C717A5AC} = {31F4C7B7-F3C5-4F9E-9BDD-6452676C0279}
+		{B07F801E-86C1-4CF1-ADAA-83B291E1D04A} = {9A49B301-936E-4F9D-B359-4EBFA544A111}
+		{A3D60B62-F4ED-4F37-B012-D47B6A7C012C} = {BEC06C9D-E1FD-47EE-9D0A-1CF0C717A5AC}
 	EndGlobalSection
 EndGlobal

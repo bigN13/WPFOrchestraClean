@@ -1,0 +1,5 @@
+K:\Visual Studio 2012\GitHub\WPFOrchestra\Orchestra.Modules.MyModule1\obj\Debug\Orchestra.Modules.MyModule1.csprojResolveAssemblyReference.cache
+K:\Visual Studio 2012\GitHub\output\Debug\Modules\Orchestra.Modules.MyModule1.dll
+K:\Visual Studio 2012\GitHub\output\Debug\Modules\Orchestra.Modules.MyModule1.pdb
+K:\Visual Studio 2012\GitHub\WPFOrchestra\Orchestra.Modules.MyModule1\obj\Debug\Orchestra.Modules.MyModule1.dll
+K:\Visual Studio 2012\GitHub\WPFOrchestra\Orchestra.Modules.MyModule1\obj\Debug\Orchestra.Modules.MyModule1.pdb

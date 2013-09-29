@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-K:\Visual Studio 2012\DOKIMES\ORCHESTRA\wpf\WpfOrchestra\WpfOrchestra\obj\Debug\
+K:\Visual Studio 2012\GitHub\WPFOrchestra\WpfOrchestra\obj\Debug\
 WpfOrchestra
 none
 false
 DEBUG;TRACE
-K:\Visual Studio 2012\DOKIMES\ORCHESTRA\wpf\WpfOrchestra\WpfOrchestra\App.xaml
+K:\Visual Studio 2012\GitHub\WPFOrchestra\WpfOrchestra\App.xaml
 3197162672
 21699476652
-11-367889208
-291315434868
+101023478118
+291389173847
 MainWindow.xaml;Views\AboutView.xaml;Views\SplashScreen.xaml;
 
 False

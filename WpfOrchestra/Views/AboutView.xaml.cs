@@ -12,8 +12,8 @@
         /// <summary>
         /// Initializes a new instance of the <see cref="AboutView"/> class.
         /// </summary>
-        public AboutView()
-            : this(null) { }
+        //public AboutView()
+        //    : this(null) { }
 
         /// <summary>
         /// Initializes a new instance of the <see cref="AboutView"/> class.
@@ -22,8 +22,8 @@
         /// <remarks>
         /// This constructor can be used to use view-model injection.
         /// </remarks>
-        public AboutView(AboutViewModel viewModel)
-            : base(viewModel, DataWindowMode.Custom)
+        public AboutView()
+            : base(DataWindowMode.Custom)
         {
             InitializeComponent();
         }

@@ -107,7 +107,6 @@
     </ApplicationDefinition>
     <Compile Include="Models\ModuleInfo.cs" />
     <Compile Include="Resources\Resources.Designer.cs" />
-    <Compile Include="ViewModels\AboutViewModel.cs" />
     <Compile Include="ViewModels\SplashScreenViewModel.cs" />
     <Compile Include="Views\AboutView.xaml.cs">
       <DependentUpon>AboutView.xaml</DependentUpon>
